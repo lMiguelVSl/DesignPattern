@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using DesignPattern.HappyBirthday;
 
-Console.WriteLine("Hello, New repo!");
+new HappyBirthdayParty().Run();

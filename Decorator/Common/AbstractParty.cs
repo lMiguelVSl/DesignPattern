@@ -1,6 +1,6 @@
 namespace DesignPattern.Common;
 
-abstract class AbstractParty
+public abstract class AbstractParty
 {
     protected abstract int EventNumber { get; }
     protected abstract void PartyImplementation();
